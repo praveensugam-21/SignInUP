@@ -17,9 +17,10 @@ Designed with a responsive layout and customizable dark theme, this app provides
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./screenshot1.jpg" alt="Sign In Page" width="45%" />
-  <img src="./screenshot2.jpg" alt="Sign Up Page" width="45%" />
+  <img src="./assests/screenshot1.jpg" alt="Sign In Page" width="45%" />
+  <img src="./assests/screenshot2.jpg" alt="Sign Up Page" width="45%" />
 </p>
+
 
 ---
 
