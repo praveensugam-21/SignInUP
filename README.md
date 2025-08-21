@@ -1,4 +1,4 @@
-# 🔐 Authentication App  
+# 🔐 Authentication App - new
 
 A sleek and modern React-based authentication application featuring **Sign In** and **Sign Up** pages.  
 Designed with a responsive layout and customizable dark theme, this app provides a smooth user interface to demonstrate basic authentication flows.  
